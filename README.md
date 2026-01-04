@@ -23,5 +23,8 @@ A simple and interactive **Weather Application** built with **Python** and **Str
 
 ---
 
+## 🌐 Live Demo
+🔗 https://weather-fun-app-by-vinayak.streamlit.app
 
+--- 
 
